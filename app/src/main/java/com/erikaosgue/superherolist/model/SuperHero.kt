@@ -1,4 +1,6 @@
 package com.erikaosgue.superherolist.model
 
-class SuperHero {
-}
+data class SuperHero(val superHeroName: String,
+                     val publisher: String,
+                     val realName: String,
+                     val image: String)
