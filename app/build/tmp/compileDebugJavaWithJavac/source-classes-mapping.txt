@@ -1,6 +1,0 @@
-com/erikaosgue/superherolist/databinding/ActivityMainBinding.java
- com.erikaosgue.superherolist.databinding.ActivityMainBinding
-com/erikaosgue/superherolist/databinding/ItemSuperheroListBinding.java
- com.erikaosgue.superherolist.databinding.ItemSuperheroListBinding
-com/erikaosgue/superherolist/BuildConfig.java
- com.erikaosgue.superherolist.BuildConfig
