@@ -1,4 +1,4 @@
-package com.erikaosgue.superherolist
+package com.erikaosgue.nestedrecyclerviews
 
 import org.junit.Test
 
